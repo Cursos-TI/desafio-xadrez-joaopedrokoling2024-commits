@@ -1,18 +1,11 @@
-# Desafio de Xadrez - MateCheck ♟
+# Desafio de Xadrez - MateCheck 
 
 Este projeto faz parte do desafio *MateCheck* e tem como objetivo testar e determinar os limites de utilização do código dentro do jogo, utilizando *estruturas de repetição* em C.
 
-## 📌 Peças e Movimentos
+##  Peças e Movimentos
 - *Bispo* → 5 casas na diagonal superior direita  
 - *Torre* → 5 casas para a direita  
 - *Rainha* → 8 casas para a esquerda  
-
-## 🚀 Como compilar e executar
-
-### Linux / MacOS
-```bash
-gcc xadrez.c -o xadrez
-./xadrez
 
 Saida esperada:
 Movimentos do Bispo:
